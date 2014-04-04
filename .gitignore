@@ -1,0 +1,6 @@
+bin/
+*.tar.gz
+fcgi/
+include/
+lib/
+*.fcgi
